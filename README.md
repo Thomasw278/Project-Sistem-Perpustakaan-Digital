@@ -2,6 +2,8 @@
 📚 Sistem Perpustakaan Digital (Python) 
 Sebuah aplikasi manajemen perpustakaan sederhana berbasis Python (CLI) yang dirancang untuk membantu pengelolaan data buku, peminjaman, dan anggota secara efisien.
 
+## 📂 Struktur Proyek
+```text
 .
 ├── data/               # Folder untuk menyimpan file database (.json /.txt)
 ├── modules/            # Logika program (peminjaman, buku, dsb)
